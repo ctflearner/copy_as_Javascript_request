@@ -120,5 +120,5 @@ sendRequest().catch(console.error);
 ## Technical Requirements
 
 - Burp Suite with Montoya API support
-- Java Runtime Environment
+- Java Runtime Environment [17]
 - Clipboard access permissions
